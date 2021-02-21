@@ -16,7 +16,7 @@ Visual Studio 프로젝트로 업그레이드 할 수 있습니다.
 
 ## English version
 
-The english version of the instruction manual is planned to be uploaded.
+The english version of the instruction manual is soon to be uploaded.
 You can still inspect the skeleton code on your own and build a fully-functional
 mini excel. (The skeleton code is fairly easy to understand. At least it's
 supposed to be!)
