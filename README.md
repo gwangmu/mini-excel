@@ -10,11 +10,11 @@ spreadsheet cells.
 
 ## Contents
 
- - instruction.pdf: Introduction to the skeleton code and the project object.
+ - `instruction.pdf`: Introduction to the skeleton code and the project object.
    (Korean only. English version will soon be uploaded.)
- - class-intro.pptx: In-class introduction presentation material. (Korean only)
- - skeleton-linux: Skeleton code for Linux users.
- - skeleton-vs: Skeleton code for Visual Studio 2010 users.
+ - `class-intro.pptx`: In-class introduction presentation material. (Korean only)
+ - `skeleton-linux`: Skeleton code for Linux users.
+ - `skeleton-vs`: Skeleton code for Visual Studio 2010 users.
 
 For the Linux skeleton code, you may install `ncurses` on your system first in
 order to run the terminal-based frontend. (`sudo apt install libncurses-dev` in
@@ -43,10 +43,10 @@ let me know by leaving an issue post or sending me an email!
 
 ## 내용물
 
- - instruction.pdf: 스켈레톤 설명 및 과제 목표 설명
- - class-intro.pptx: 현장 설명 발표 자료
- - skeleton-linux: 리눅스용 스켈레톤
- - skeleton-vs: Visual Studio 2010 스켈레톤
+ - `instruction.pdf`: 스켈레톤 설명 및 과제 목표 설명
+ - `class-intro.pptx`: 현장 설명 발표 자료
+ - `skeleton-linux`: 리눅스용 스켈레톤
+ - `skeleton-vs`: Visual Studio 2010 스켈레톤
 
 리눅스용 스켈레톤은 터미널 환경에서 자체 구성된 UI를 사용하는 관계로, 사전에
 libncurses를 설치하여야 합니다. (Ubuntu의 경우 `sudo apt install libncurses-dev`)
