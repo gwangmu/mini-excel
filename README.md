@@ -1,7 +1,6 @@
 # Mini Excel OOP Project
 
 2015년도 가을학기 POSTECH "객체지향 프로그래밍" 수업을 위해 제작된 랩 프로젝트
-과제.
 
  - instruction.pdf: 스켈레톤 설명 및 과제 목표 설명
  - class-intro.pptx: 현장 설명 발표 자료
