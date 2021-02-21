@@ -12,7 +12,7 @@
 libncurses를 설치하여야 합니다. (Ubuntu의 경우 `sudo apt install libncurses-dev`)
 
 Visual Studio 2010 스켈레톤의 경우 이후 버전에서 열 경우 자동으로 해당 버전
-Visual Studio 프로젝트로 업그레이드
+Visual Studio 프로젝트로 업그레이드됩니다.
 
 ## English version
 
