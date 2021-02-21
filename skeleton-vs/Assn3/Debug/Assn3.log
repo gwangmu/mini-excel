@@ -1,0 +1,35 @@
+﻿빌드 시작: 2015-11-04 오전 12:04:18
+     1>2 노드의 "C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Assn3\Assn3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Assn3.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\ /IC:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\/Assn3 /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\gwangmu\documents\ta\assn3_vs\assn3\assn3\ui\gterm.h(81): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\gwangmu\documents\ta\assn3_vs\assn3\assn3\ui\gterm.h(83): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\gwangmu\documents\ta\assn3_vs\assn3\assn3\main.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Debug\Assn3.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Assn3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Debug\Assn3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Debug\Assn3.lib" /MACHINE:X86 Debug\main.obj
+         Debug\ArrayView.obj
+         Debug\ColorLabel.obj
+         Debug\Label.obj
+         Debug\LabeledStrip.obj
+         Debug\MenuStrip.obj
+         Debug\TextBox.obj
+         Debug\UIManager.obj
+         Debug\UIObject.obj
+         LINK : C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Debug\Assn3.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+         Assn3.vcxproj -> C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Debug\Assn3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Debug\Assn3.exe;#1" /manifest Debug\Assn3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Debug\Assn3.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Assn3.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\gwangmu\Documents\TA\Assn3_VS\Assn3\Assn3\Assn3.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.10
