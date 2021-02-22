@@ -28,7 +28,7 @@ project file by simply opening it with a more recent Visual Studio version.
 The uploaded skeleton code may have some minor issues, as I uploaded the
 skeleton file written in 2015 and barely tested on a recent system. If you
 encounter any problems (not necessarily limited to the technical issues), please
-let me know by leaving an issue post or sending me an email!
+let me know by leaving an issue post or sending me an email. (gwangmu@snu.ac.kr)
 
 ---
 
@@ -59,4 +59,4 @@ Visual Studio 프로젝트로 업그레이드 할 수 있습니다.
 현재 업로드된 스켈레톤과 소개 자료들은 2015년에 제작된 상태 거의 그대로 업로드된
 것으로, 바뀐 시스템으로 인해 빌드에 문제가 있거나 수업과의 연계된 내용으로
 생략된 내용 등이 존재할 수 있습니다. 이러한 문제가 있을 시에는 이슈를
-올려주시거나 제게 메일을 보내 알려주시면 조치해드리도록 하겠습니다!
+올려주시거나 제게 메일을 보내 알려주시면 조치해드리도록 하겠습니다. (gwangmu@snu.ac.kr)
